@@ -1,0 +1,3 @@
+[submodule "norm"]
+	path = norm
+	url = https://github.com/USNavalResearchLaboratory/norm
